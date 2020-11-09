@@ -1,0 +1,120 @@
+appdirs==1.4.4
+apptools==4.5.0
+argon2-cffi==20.1.0
+astroid @ file:///C:/ci/astroid_1592481955828/work
+async-generator==1.10
+attrs==20.2.0
+backcall==0.2.0
+bleach==3.2.1
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+configobj==5.0.6
+cvxopt==1.2.0
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+distlib==0.3.1
+entrypoints==0.3
+envisage @ file:///tmp/build/80754af9/envisage_1594351320406/work
+fastapi==0.61.2
+filelock==3.0.12
+Flask==1.1.2
+future==0.18.2
+gunicorn==20.0.4
+h11==0.11.0
+idna==2.10
+importlib-metadata==2.0.0
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+itsdangerous==1.1.0
+jedi==0.17.2
+Jinja2==2.11.2
+joblib==0.17.0
+json5==0.9.5
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==6.1.7
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyterlab==2.2.9
+jupyterlab-pygments==0.1.2
+jupyterlab-server==1.2.0
+kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
+lab==6.2
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
+mayavi==4.7.1
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.2
+notebook==6.1.4
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+olefile==0.46
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1602088205210/work
+pandocfilters==1.4.3
+parso==0.7.1
+pickle-mixin==1.0.2
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+pipenv==2020.11.4
+prometheus-client==0.8.0
+prompt-toolkit==3.0.8
+pycparser==2.20
+pydantic==1.7.2
+pyface @ file:///C:/ci/pyface_1603211065497/work
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pylint @ file:///C:/ci/pylint_1598605958085/work
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==228
+pywinpty==0.5.7
+pyzmq==19.0.2
+qtconsole==4.7.7
+QtPy==1.9.0
+requests==2.24.0
+scikit-learn==0.23.2
+scipy @ file:///C:/ci/scipy_1597686737426/work
+seaborn==0.11.0
+Send2Trash==1.5.0
+simplejson==3.17.2
+six==1.15.0
+starlette==0.13.6
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.0.4
+traitlets==5.0.5
+traits @ file:///C:/ci/traits_1596111023225/work
+traitsui @ file:///tmp/build/80754af9/traitsui_1603305459846/work
+txt2tags==3.7
+typed-ast==1.4.1
+typing-extensions==3.7.4.3
+urllib3==1.25.11
+uvicorn==0.12.2
+virtualenv==20.1.0
+virtualenv-clone==0.5.4
+vtk===-PKG-VERSION
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+wrapt==1.11.2
+zipp==3.4.0
